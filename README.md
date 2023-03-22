@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Mercado Libre Colombia**
 - 🌱 I’m currently learning **Python**
 - 📝 I regularly write articles on [medium](https://medium.com/@e.velandia2164)
-- 📫 How to reach me **e.velandia2164@gmail.com**
+- 📫 How to reach [me](e.velandia2164@gmail.com)
 
 
 <h4 align="center">Some languages and tools that I know:</h4>
