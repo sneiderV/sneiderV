@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🦈, I'm Esneider Velandia</h1>
+<h1 align="center">Hi, I'm Esneider Velandia 🦈</h1>
 <h3 align="center">🤿 A passionate Software Engineer from Colombia</h3>
 
 - 🔭 I’m currently working on **Mercado Libre Colombia**
